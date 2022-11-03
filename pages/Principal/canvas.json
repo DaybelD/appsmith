@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "Principal",
+    "slug": "principal",
     "layouts": [
       {
         "viewMode": false,
@@ -34,8 +34,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 0,
-              "bottomRow": 4,
+              "topRow": 2,
+              "bottomRow": 6,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -44,7 +44,7 @@
               "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
               "parentColumnSpace": 6.84375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 1,
+              "leftColumn": 2,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -61,7 +61,7 @@
               "text": "Pantalla Principal",
               "key": "gi4mni83l9",
               "isDeprecated": false,
-              "rightColumn": 45,
+              "rightColumn": 32,
               "textAlign": "LEFT",
               "widgetId": "2ukhfw9ppg",
               "isVisible": true,
@@ -80,15 +80,15 @@
               "widgetName": "MenuButton1",
               "displayName": "Menu Button",
               "iconSVG": "/static/media/icon.0341d17d67020c8bfc560cc5928af2a7.svg",
-              "topRow": 0,
-              "bottomRow": 4,
+              "topRow": 2,
+              "bottomRow": 6,
               "parentRowSpace": 10,
               "type": "MENU_BUTTON_WIDGET",
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 6.84375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 55,
+              "leftColumn": 58,
               "dynamicBindingPathList": [
                 {
                   "key": "menuColor"
@@ -100,7 +100,7 @@
               "isDisabled": false,
               "key": "uz66xmxm3o",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 61,
               "iconName": "align-justify",
               "menuVariant": "PRIMARY",
               "widgetId": "mo9m1iyavu",
@@ -146,14 +146,15 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "Principal",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "6362acfaf30f9143c9f05b38_6362b126dfa75b056e2eec55"

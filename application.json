@@ -1,11 +1,27 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Login",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Principal",
+      "isDefault": false
+    },
+    {
+      "id": "Cambio de clave",
+      "isDefault": false
+    },
+    {
+      "id": "Agregar",
+      "isDefault": false
+    },
+    {
+      "id": "Editar",
+      "isDefault": false
+    },
+    {
+      "id": "Tablas agregadas",
       "isDefault": false
     }
   ],
